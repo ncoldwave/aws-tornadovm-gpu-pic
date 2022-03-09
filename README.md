@@ -1,2 +1,2 @@
-# aws-tornadovm-pic
-aws tornadovm picture manipulation project
+# aws-tornadovm-gpu-pic
+aws tornadovm picture manipulation project with gpu
